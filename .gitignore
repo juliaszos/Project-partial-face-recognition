@@ -1,0 +1,15 @@
+# Ignore model files and large binaries
+*.h5
+*.hdf5
+*.pkl
+
+# Ignore datasets
+input_folder/archive/
+output_folder/
+logs/
+*.zip
+
+# Ignore system files
+.DS_Store
+__pycache__/
+*.ipynb_checkpoints/

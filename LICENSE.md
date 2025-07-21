@@ -1,0 +1,1 @@
+Educational use only. No commercial use or redistribution without explicit permission.
